@@ -1,18 +1,18 @@
-# Simulador de corrida no terminal
+# Terminal racing simulator
 
-Projeto de estudo em JavaScript que simula uma corrida entre Mario e Luigi com rodadas e resultados aleatórios.
+JavaScript study project that simulates a race between Mario and Luigi using random rounds and dice rolls.
 
-## Funcionalidades
+## Features
 
-- Cinco rodadas com sorteio de reta, curva ou confronto.
-- Combinação de atributos dos personagens com lançamento de dados.
-- Atualização de pontos e apresentação do resultado no terminal.
+- Five rounds with randomly selected straights, corners or confrontations.
+- Character attributes combined with dice results.
+- Score updates and a final result printed in the terminal.
 
-## Tecnologias
+## Technologies
 
-Node.js e JavaScript. Sem dependências externas.
+Node.js and JavaScript, without external dependencies.
 
-## Executar localmente
+## Run locally
 
 ```bash
 git clone https://github.com/chruscinskiDiego/mario-kart-random-race.git
@@ -20,7 +20,6 @@ cd mario-kart-random-race
 node src/index.js
 ```
 
-## Escopo e limitações
+## Scope
 
-Simulação textual para praticar funções, objetos, condicionais e operações assíncronas. Não possui interface gráfica ou conexão com jogos externos.
-
+A text-based exercise in functions, objects, conditionals and asynchronous operations. It has no graphical interface or connection to an external game.
